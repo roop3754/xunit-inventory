@@ -1,0 +1,28 @@
+C:\Users\dave.sommerville\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\InventorySystem.exe
+C:\Users\dave.sommerville\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\InventorySystem.deps.json
+C:\Users\dave.sommerville\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\InventorySystem.runtimeconfig.json
+C:\Users\dave.sommerville\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\InventorySystem.dll
+C:\Users\dave.sommerville\source\repos\InventorySystem\InventorySystem\bin\Debug\net8.0\InventorySystem.pdb
+C:\Users\dave.sommerville\source\repos\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dave.sommerville\source\repos\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.AssemblyInfoInputs.cache
+C:\Users\dave.sommerville\source\repos\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.AssemblyInfo.cs
+C:\Users\dave.sommerville\source\repos\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\dave.sommerville\source\repos\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.dll
+C:\Users\dave.sommerville\source\repos\InventorySystem\InventorySystem\obj\Debug\net8.0\refint\InventorySystem.dll
+C:\Users\dave.sommerville\source\repos\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.pdb
+C:\Users\dave.sommerville\source\repos\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.genruntimeconfig.cache
+C:\Users\dave.sommerville\source\repos\InventorySystem\InventorySystem\obj\Debug\net8.0\ref\InventorySystem.dll
+C:\Users\LENOVO\Downloads\Assignment 1 - InventorySystem\InventorySystem\InventorySystem\bin\Debug\net8.0\InventorySystem.exe
+C:\Users\LENOVO\Downloads\Assignment 1 - InventorySystem\InventorySystem\InventorySystem\bin\Debug\net8.0\InventorySystem.deps.json
+C:\Users\LENOVO\Downloads\Assignment 1 - InventorySystem\InventorySystem\InventorySystem\bin\Debug\net8.0\InventorySystem.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Assignment 1 - InventorySystem\InventorySystem\InventorySystem\bin\Debug\net8.0\InventorySystem.dll
+C:\Users\LENOVO\Downloads\Assignment 1 - InventorySystem\InventorySystem\InventorySystem\bin\Debug\net8.0\InventorySystem.pdb
+C:\Users\LENOVO\Downloads\Assignment 1 - InventorySystem\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Assignment 1 - InventorySystem\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Assignment 1 - InventorySystem\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Assignment 1 - InventorySystem\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Assignment 1 - InventorySystem\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.dll
+C:\Users\LENOVO\Downloads\Assignment 1 - InventorySystem\InventorySystem\InventorySystem\obj\Debug\net8.0\refint\InventorySystem.dll
+C:\Users\LENOVO\Downloads\Assignment 1 - InventorySystem\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.pdb
+C:\Users\LENOVO\Downloads\Assignment 1 - InventorySystem\InventorySystem\InventorySystem\obj\Debug\net8.0\InventorySystem.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Assignment 1 - InventorySystem\InventorySystem\InventorySystem\obj\Debug\net8.0\ref\InventorySystem.dll

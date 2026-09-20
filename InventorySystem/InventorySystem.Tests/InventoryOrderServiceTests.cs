@@ -84,5 +84,40 @@ namespace InventorySystem.Tests
 
             Assert.True(result.IsSuccess);
         }
+        [Fact]
+        public void ProcessOrder_Quantity10_ShouldReceiveTenPercentDiscount()
+        {
+            var service = new InventoryOrderService();
+
+            service.AddProduct(new Product
+            {
+                Id = "P100",
+                Name = "Keyboard",
+                UnitPrice = 100m,
+                StockQuantity = 20
+            });
+
+            var result = service.ProcessOrder("P100", 10, 0m);
+
+            Assert.Equal(900m, result.TotalCost);
+        }
+
+        [Fact]
+        public void ProcessOrder_ZeroQuantity_ShouldFail()
+        {
+            var service = new InventoryOrderService();
+
+            service.AddProduct(new Product
+            {
+                Id = "P100",
+                Name = "Keyboard",
+                UnitPrice = 100m,
+                StockQuantity = 20
+            });
+
+            var result = service.ProcessOrder("P100", 0, 0m);
+
+            Assert.False(result.IsSuccess);
+        }
       }
     }
