@@ -119,5 +119,12 @@ namespace InventorySystem.Tests
 
             Assert.False(result.IsSuccess);
         }
-      }
+        [Fact]
+        public void AddProduct_NullProduct_ThrowsArgumentException()
+        {
+            var service = new InventoryOrderService();
+
+            Assert.Throws<ArgumentException>(() => service.AddProduct(null!));
+        }
+        }
     }
