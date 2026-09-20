@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\Assignment 1 - InventorySystem\\InventorySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0877E56A-C421-4929-A060-3D495E51A59D}|InventorySystem.Tests\\InventorySystem.Tests.csproj|c:\\users\\lenovo\\downloads\\assignment 1 - inventorysystem\\inventorysystem\\inventorysystem.tests\\inventoryorderservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0877E56A-C421-4929-A060-3D495E51A59D}|InventorySystem.Tests\\InventorySystem.Tests.csproj|solutionrelative:inventorysystem.tests\\inventoryorderservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D50617-5FBE-E733-B639-B37AA498C7B3}|InventorySystem\\InventorySystem.csproj|c:\\users\\lenovo\\downloads\\assignment 1 - inventorysystem\\inventorysystem\\inventorysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D50617-5FBE-E733-B639-B37AA498C7B3}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D50617-5FBE-E733-B639-B37AA498C7B3}|InventorySystem\\InventorySystem.csproj|c:\\users\\lenovo\\downloads\\assignment 1 - inventorysystem\\inventorysystem\\inventorysystem\\inventorysystemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D50617-5FBE-E733-B639-B37AA498C7B3}|InventorySystem\\InventorySystem.csproj|solutionrelative:inventorysystem\\inventorysystemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 232,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryOrderServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignment 1 - InventorySystem\\InventorySystem\\InventorySystem.Tests\\InventoryOrderServiceTests.cs",
+              "RelativeDocumentMoniker": "InventorySystem.Tests\\InventoryOrderServiceTests.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Assignment 1 - InventorySystem\\InventorySystem\\InventorySystem.Tests\\InventoryOrderServiceTests.cs*",
+              "RelativeToolTip": "InventorySystem.Tests\\InventoryOrderServiceTests.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T20:32:46.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventorySystemService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignment 1 - InventorySystem\\InventorySystem\\InventorySystem\\InventorySystemService.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\InventorySystemService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Assignment 1 - InventorySystem\\InventorySystem\\InventorySystem\\InventorySystemService.cs",
+              "RelativeToolTip": "InventorySystem\\InventorySystemService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAswFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T14:17:58.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\Assignment 1 - InventorySystem\\InventorySystem\\InventorySystem\\Program.cs",
+              "RelativeDocumentMoniker": "InventorySystem\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\Assignment 1 - InventorySystem\\InventorySystem\\InventorySystem\\Program.cs",
+              "RelativeToolTip": "InventorySystem\\Program.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAowKMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T14:16:01.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
